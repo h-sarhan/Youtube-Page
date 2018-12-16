@@ -1,0 +1,58 @@
+
+
+
+.navbar,form,.rightnavbar,.leftnavbar{
+    display: inline;
+    vertical-align: top;
+}
+
+form input{
+    height: 22px;
+    width: 400px;
+}
+.rightnavbar {
+    
+    float:right;
+}
+
+.search-icon{
+    height:40px;
+    width: 75px;
+}
+.search-button{
+    height: 50px;
+}
+
+.centernavbar,.searchbar{
+    display: inline;
+    margin-left:150px;
+}
+.sign-in-button:visited, .sign-in-button{
+    position:relative;
+    top: 0;
+    right: 0;
+    color: blue;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 50px;
+
+}
+
+.rightnavbar a img{
+    margin: 24px;
+    height:24px;
+    width:24px;
+
+}
+
+.logo img{
+    height: 30px;
+    width:86px;
+}
+.burger img {
+    margin-right: 20px;
+    height: 30px;
+    width: 30px;
+}
+
