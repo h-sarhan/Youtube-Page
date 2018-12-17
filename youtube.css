@@ -1,93 +1,91 @@
-
-
-
-.navbar,form,.rightnavbar,.leftnavbar{
-    display: inline;
-    vertical-align: top;
+.navbar,
+form,
+.rightnavbar,
+.leftnavbar {
+  display: inline;
+  vertical-align: top;
 }
 
-form input{
-    height: 22px;
-    width: 400px;
+form input {
+  height: 22px;
+  width: 400px;
 }
 .rightnavbar {
-    
-    float:right;
+  float: right;
 }
 
-.search-icon{
-    height:40px;
-    width: 75px;
+.search-icon {
+  height: 40px;
+  width: 75px;
 }
-.search-button{
-    height: 50px;
-}
-
-.centernavbar,.searchbar{
-    display: inline;
-    margin-left:150px;
-}
-.sign-in-button:visited, .sign-in-button{
-    position:relative;
-    top: 0;
-    right: 0;
-    color: blue;
-    text-decoration: none;
-    font-weight: 500;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 50px;
-
+.search-button {
+  height: 50px;
 }
 
-.rightnavbar a img{
-    margin: 24px;
-    height:24px;
-    width:24px;
-
+.centernavbar,
+.searchbar {
+  display: inline;
+  margin-left: 150px;
+}
+.sign-in-button:visited,
+.sign-in-button {
+  position: relative;
+  top: 0;
+  right: 0;
+  color: blue;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 50px;
 }
 
-.logo img{
-    height: 30px;
-    width:86px;
+.rightnavbar a img {
+  margin: 24px;
+  height: 24px;
+  width: 24px;
+}
+
+.logo img {
+  height: 30px;
+  width: 86px;
 }
 .burger img {
-    margin-right: 20px;
-    height: 30px;
-    width: 30px;
+  margin-right: 20px;
+  height: 30px;
+  width: 30px;
 }
 
-.videos ul li img{
-    width:186px;
-    height:94px;
+.videos ul li img {
+  width: 186px;
+  height: 94px;
 }
 
 .videos ul {
-    text-align: right;
-    list-style-type: none;
-        
+  text-align: right;
+  list-style-type: none;
 }
 
 .videos {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 300px; /* Set the width of the sidebar */
-    position: absolute; /* Fixed Sidebar (stay in place on scroll) */
-    top: 60px; /* Stay at the top */
-    right: 20px;
-    padding-top: 20px;
-  }
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 300px; /* Set the width of the sidebar */
+  position: absolute; /* Fixed Sidebar (stay in place on scroll) */
+  top: 60px; /* Stay at the top */
+  right: 20px;
+  padding-top: 20px;
+}
 
-  .videos ul li a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-  }
-  .finn{
-      display: block;
-      margin: 20px auto;
-  }
-  .title, .views{
-      margin-left: 200px;
-  }
-
+.videos ul li a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+.finn {
+  display: block;
+  margin: 20px auto;
+}
+.title,
+.views {
+  margin-left: 200px;
+}
